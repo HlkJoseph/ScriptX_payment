@@ -1,0 +1,34 @@
+{
+    "music":[
+        {
+            "id":1,
+            "name":"Album 1",
+            "prix":3000,
+            "imgName":"Album1.png"
+        }
+        {
+            "id":2,
+            "name":"Album 2",
+            "prix":4000,
+            "imgName":"Album2.png"
+        }
+        {
+            "id":3,
+            "name":"Album 3",
+            "prix":3000,
+            "imgName":"Album3.png"
+        }
+
+    ],
+
+    "merch": [
+        {
+            "id": 5,
+            "name":"T-shirt",
+            "price":1999,
+            "imgName":"Shirt.png"
+
+        }
+
+    ]
+}
